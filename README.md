@@ -1,1 +1,1 @@
-# ExercitiiJava1
+# ExercitiiPentruOameni
